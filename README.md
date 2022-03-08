@@ -15,6 +15,10 @@
 
 - [Panto Landing Page](https://panto.vercel.app/)
 
+## Design By
+
+- [Ahmad Fauzi @asaldesign](https://www.figma.com/@asaldesign)
+
 ## License
 
 Licensed under [MIT License, Copyright (c) 2021 Dadi Ilham S](./LICENSE)
