@@ -8,12 +8,12 @@
 </p>
 
 <p align="left">
-  Code for Panto Landing Page [<a href='https://panto.vercel.app'>panto.vercel.app</a>] 🚀 using HTML, CSS, Javascript and Hosted on <a href='https://vercel.com/'>Vercel</a> 
+  Code for Panto Landing Page [<a href='https://panto-slicing.vercel.app/'>panto-slicing.vercel.app</a>] 🚀 using HTML, CSS, Javascript and Hosted on <a href='https://vercel.com/'>Vercel</a> 
 </p>
 
 ## Live
 
-- [Panto Landing Page](https://panto.vercel.app/)
+- [Panto Landing Page](https://panto-slicing.vercel.app/)
 
 ## Design By
 
